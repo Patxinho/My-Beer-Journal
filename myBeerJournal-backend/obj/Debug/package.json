@@ -1,0 +1,17 @@
+{
+  "name": "My_Beer_Journal",
+  "version": "0.0.1",
+  "description": "My Beer Journal",
+  "main": "app.js",
+  "author": {
+    "name": "Santiago",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.11.0",
+    "express": "^4.11.2",
+    "jade": "*",
+    "method-override": "^2.3.1",
+    "mongoose": "^3.8.22"
+  }
+}
